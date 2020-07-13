@@ -6,6 +6,5 @@
  */
 public class Student {
 	private String cname;
-	private Integer cid;
 
 }
